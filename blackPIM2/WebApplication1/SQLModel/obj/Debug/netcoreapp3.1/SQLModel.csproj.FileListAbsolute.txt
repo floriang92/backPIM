@@ -1,0 +1,12 @@
+D:\fgill\Desktop\blackPIM2\WebApplication1\SQLModel\bin\Debug\netcoreapp3.1\SQLModel.exe
+D:\fgill\Desktop\blackPIM2\WebApplication1\SQLModel\bin\Debug\netcoreapp3.1\SQLModel.deps.json
+D:\fgill\Desktop\blackPIM2\WebApplication1\SQLModel\bin\Debug\netcoreapp3.1\SQLModel.runtimeconfig.json
+D:\fgill\Desktop\blackPIM2\WebApplication1\SQLModel\bin\Debug\netcoreapp3.1\SQLModel.runtimeconfig.dev.json
+D:\fgill\Desktop\blackPIM2\WebApplication1\SQLModel\bin\Debug\netcoreapp3.1\SQLModel.dll
+D:\fgill\Desktop\blackPIM2\WebApplication1\SQLModel\bin\Debug\netcoreapp3.1\SQLModel.pdb
+D:\fgill\Desktop\blackPIM2\WebApplication1\SQLModel\obj\Debug\netcoreapp3.1\SQLModel.csproj.CoreCompileInputs.cache
+D:\fgill\Desktop\blackPIM2\WebApplication1\SQLModel\obj\Debug\netcoreapp3.1\SQLModel.AssemblyInfoInputs.cache
+D:\fgill\Desktop\blackPIM2\WebApplication1\SQLModel\obj\Debug\netcoreapp3.1\SQLModel.AssemblyInfo.cs
+D:\fgill\Desktop\blackPIM2\WebApplication1\SQLModel\obj\Debug\netcoreapp3.1\SQLModel.dll
+D:\fgill\Desktop\blackPIM2\WebApplication1\SQLModel\obj\Debug\netcoreapp3.1\SQLModel.pdb
+D:\fgill\Desktop\blackPIM2\WebApplication1\SQLModel\obj\Debug\netcoreapp3.1\SQLModel.genruntimeconfig.cache
